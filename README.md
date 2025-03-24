@@ -1,0 +1,2 @@
+# AkatosferaDjango
+Приложение Django
